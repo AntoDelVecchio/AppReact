@@ -28,6 +28,9 @@ function App() {
         <div className='texto'>
           <span className='this'>Esta es mi primera app en react 😃</span>
         </div>
+      </div>
+      <div className='footer'>
+        <span className='derechos'>Todos los derechos reservados (?</span>
       </div>  
     </div>
   );
