@@ -57,3 +57,23 @@ h1{
   width: 70%;
   transition:all 0.3s ease;
 }
+
+.texto{
+  width: 49.5%;
+  background-color: #61dafb;
+  height: 40rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.this{
+  color: azure;
+  font-weight: bolder;
+  font-size: 3rem;
+  transition:all 0.3s ease;
+}
+
+.computer:hover, .this:hover{
+  transform: scale(0.8);
+}
