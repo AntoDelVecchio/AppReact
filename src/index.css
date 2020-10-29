@@ -42,3 +42,18 @@ h1{
   font-size: 2.5rem;
   color: #61dafb;
 }
+
+.image{
+  width: 49.5%;
+  background-color: #FFE048;
+  height: 40rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1.19rem;
+}
+
+.computer{
+  width: 70%;
+  transition:all 0.3s ease;
+}

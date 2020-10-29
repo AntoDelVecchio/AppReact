@@ -22,6 +22,9 @@ function App() {
         <div className='saludo'>
           <h1 className='hola'>Hola Mundo!!</h1>
         </div>
+        <div className='image'>
+          <img className='computer' src="https://lisk.io/sites/default/files/styles/blog_main_image_xl/public/images/2020-04/iMessage%20Extension_Social%20copy.png?itok=msRT-cX8" alt=""/>
+        </div>
       </div>  
     </div>
   );
