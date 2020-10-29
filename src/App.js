@@ -18,6 +18,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <div className='misComponentes'>
+        <div className='saludo'>
+          <h1 className='hola'>Hola Mundo!!</h1>
+        </div>
+      </div>  
     </div>
   );
 }
